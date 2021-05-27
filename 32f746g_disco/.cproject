@@ -183,7 +183,7 @@
                     					
                     <sourceEntries>
                         						
-                        <entry excluding="src/lib/32f746g_mx/Core" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+                        <entry excluding="src/lib/32f746g_gfx|src/lib/32f746g_mx/Core" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
                         					
                     </sourceEntries>
                     				
@@ -343,7 +343,7 @@
                     					
                     <sourceEntries>
                         						
-                        <entry excluding="src/lib/32f746g_mx/Core" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+                        <entry excluding="src/lib/32f746g_gfx|src/lib/32f746g_mx/Core" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
                         					
                     </sourceEntries>
                     				
